@@ -3,5 +3,5 @@ __all__ = [
     'Harvester',
 ]
 
-from cli import har_cli
+from .cli import har_cli
 from .harvester import Harvester
