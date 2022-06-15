@@ -13,8 +13,10 @@ setup(
     author_email='mehmed.mustafa@gwdg.de',
     url='https://github.com/MehmedGIT/OPERANDI_TestRepo',
     license='Apache License 2.0',
-    packages=['harvester'],
+    packages=['harvester', 'harvester.cli'],
     install_requires=install_requires,
+    include_package_data=True,
+    package_data={'': ['*.txt']},
     entry_points={
         'console_scripts': [
             'operandi-harvester=harvester.cli:har_cli',
