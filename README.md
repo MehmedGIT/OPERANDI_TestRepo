@@ -1,5 +1,9 @@
+The main repository of OPERANDI: https://github.com/subugoe/operandi
+This repository is deprecated!
+
 # OPERANDI_TestRepo
-This is the OPERANDI project's repository. The Readme file is still a draft and under construction.
+This was the OPERANDI project's Test repository. Check the repository above.
+The Readme file is still a draft and under construction.
 
 ## 1. Introduction
 OPERANDI is one of the implementation projects funded by the DFG initiative OCR-D. The main goal of OCR-D is the conceptual and technical preparation of the full-text transformation of the 16th to 18th-century prints published in the German language area. The task of automatic full-text recognition is broken down into individual process steps, which can be reproduced in the open source OCR-D software. This makes it possible to create optimal workflows for the prints to be processed, and thus generate scientifically usable full texts.
